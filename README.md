@@ -1,5 +1,5 @@
 ### Hey there, I'm Nive 🤞🏼
-## I'm a Student, a Learner!
+## A Student/Learner
 
 - 🔭 Up here to feed my brain 
 - 🌱 Currently learning HTML, CSS, JS, PHP, SQL ands some
