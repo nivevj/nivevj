@@ -5,6 +5,8 @@ Also a lad working on aceing
 * Full stack web development
 ### Yeah! I love coding and to draw too ✏️
 Check my socials :)
+![image](https://user-images.githubusercontent.com/89762503/139795821-f7c7caba-9441-4c20-bb2b-bb98fd828ca1.png)
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
