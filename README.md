@@ -3,7 +3,7 @@
 Also working on aceing
 * Programming skills
 * Full stack web development
-### And remember you are best in your way
+### And remember you are best in your way 🌈
 
 
 
