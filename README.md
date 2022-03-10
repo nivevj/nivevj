@@ -1,4 +1,4 @@
-## Hola! I'm Nive 🤞
+<h3 align="center"> Hola! I'm Nive 🤞 </h3>
 ### A nerd who basically engages in something cool 🦾
 Currently working on aceing
 * Programming/DSA
