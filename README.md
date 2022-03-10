@@ -1,4 +1,4 @@
-# Hola! I'm Nive 🤞
+<center> # Hola! I'm Nive 🤞 </center>
 ## A nerd who basically engages in something cool 🦾
 
 ### Skill set
@@ -9,12 +9,15 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Languages used
+![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
+
 ### Working on
 * Programming/ DSA
 * Full stack web development
 
-### Github Stats
-![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=violet-red)
+### Github stats
+![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true&theme=blue-green)
 
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar-5185b1224/)
