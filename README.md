@@ -1,8 +1,8 @@
 ## Hola! I'm Nive 🤞
 ### A nerd who basically engages in something cool 🦾
 Skill set
-* [C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-* [
+* [![C Badge]](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+* 
 Working on
 * Programming/ DSA
 * Full stack web development
