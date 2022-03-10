@@ -1,4 +1,4 @@
-## Hola! I'm Nive 🤞
+# Hola! I'm Nive 🤞
 ### A nerd who basically engages in something cool 🦾
 
 Skill set
