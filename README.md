@@ -14,10 +14,10 @@
 * Full stack web development
 
 ### Socials
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar-5185b1224/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074261173701)
+* [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar-5185b1224/)
+* [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074261173701)
 
-## And remember you are best in your way 🌈
+## And remember you are best in your way ![Love Badge](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 
 
