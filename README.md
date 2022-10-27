@@ -21,7 +21,7 @@
 ### Languages worked on
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
-### Working on
+### Currently working on
 * Programming/ DSA
 * Full stack web development
 * AI-ML-DL
