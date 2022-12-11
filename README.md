@@ -23,7 +23,6 @@
 
 ### Languages worked on
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
-![Nivedha Stats](https://api.github.com/users/nivevj/repos&theme=blue-green)
 
 ### Currently working on
 * Programming/ DSA
