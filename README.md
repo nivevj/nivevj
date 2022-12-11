@@ -28,11 +28,11 @@
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true&theme=blue-green)
 
 ### Pinned Repos
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-1)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-2)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-3)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-1)__
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-2)__
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-3)__
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV)__
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List)__
 
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
