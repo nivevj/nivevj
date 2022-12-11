@@ -24,16 +24,13 @@
 ### Languages worked on
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
+### Github stats
+![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true&theme=blue-green)
+
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
 * MERN Stack
 * AI-ML-DL
-
-### Pinned Repos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=github-nivevj-jpmc-task-1-stats)](https://github.com/nivevj/github-jpmc-task-1-stats)
-
-### Github stats
-![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true&theme=blue-green)
 
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar-5185b1224/)
