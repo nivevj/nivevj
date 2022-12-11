@@ -27,6 +27,9 @@
 ### Github stats
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true&theme=blue-green)
 
+### Pinned Repos
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-1)](https://github.com/nivevj/jpmc-task-1)
+
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
 * MERN Stack
