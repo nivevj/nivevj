@@ -45,6 +45,9 @@
 * MERN Stack
 * AI-ML-DL
 
+### Profile overview 
+![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
+
 ## And remember you are the best in your way 🌈 Cheers :)
 
 ### Get in touch
