@@ -31,7 +31,7 @@
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
 ### Github stats
-![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true&theme=blue-green)
+![Nivedha Stats](https://github-readme-stats.vercel.app/api?username=nivevj&show_icons=true)
 
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-1)</br>
