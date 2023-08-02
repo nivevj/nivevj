@@ -31,7 +31,7 @@
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
 ### Git Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=algolia&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=blue-green&hide_border=false)
 
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker)</br>
