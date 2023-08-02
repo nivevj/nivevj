@@ -1,4 +1,4 @@
-# Hola! I'm Nivedha 🤞
+# Hola! I'm Nivedha 🖖🏻
 ## A nerd who basically engages in something cool 🦾
 
 ### Languages I speak
@@ -30,17 +30,18 @@
 ### Languages worked on
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
+### Git Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=algolia&hide_border=false)
+
 ### Pinned Repos
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-1)</br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-2)</br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=jpmc-task-3)</br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV)</br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker)</br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List)</br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV)
 
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
+* DSA
 * MERN Stack
-* AI-ML-DL
 
 ### Profile overview 
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
@@ -49,8 +50,9 @@
 
 ### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nfornive)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nivedha_vijayakumar)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nfornive)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
 
 
 ## Built with Love ❤ and ☕
