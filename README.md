@@ -1,5 +1,7 @@
-# Hola! I'm Nivedha 🖖🏻
-## A nerd who basically engages in something cool 🦾
+# Hey there! I'm Nivedha Vijayakumar 👋🏻👩🏻
+## A nerd who engages in something cool 🦾
+
+[![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages I speak
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -49,7 +51,7 @@
 ### Profile overview 
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
 
-## And remember you are the best in your way 🌈 Cheers :)
+## And remember you're the best in your way 🌈 Cheers :)
 
 ### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar)
@@ -58,5 +60,5 @@
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
 
 
-## Built with Love ❤ and ☕
+## Built with Love ❤ and Caffeine ☕
 
