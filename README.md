@@ -31,17 +31,20 @@
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
 ### Git Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=blue-green&hide_border=false)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nivevj&theme=dark&background=000000)](https://git.io/streak-stats)<br> 
 
 ### Pinned Repos
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker)</br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List)</br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker&theme=dark)</br><br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)</br><br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV&theme=dark)
 
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
 * DSA
 * MERN Stack
+* AI-ML-DL
 
 ### Profile overview 
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
