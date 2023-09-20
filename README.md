@@ -45,7 +45,7 @@
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
 * Aceing Problem Solving 
-* MERN Stack
+* MERN Stack & Django
 * AI-ML-DL
 
 ### Profile overview 
