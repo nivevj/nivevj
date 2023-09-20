@@ -34,7 +34,7 @@
 
 ### Git Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nivevj&theme=dark&background=000000)](https://git.io/streak-stats)<br> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nivevj&theme=dark)](https://git.io/streak-stats)<br> 
 
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
