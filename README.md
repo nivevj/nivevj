@@ -32,13 +32,6 @@
 ### Languages worked on
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
-### Git Stats
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nivevj)](https://git.io/streak-stats)<br>
-[![Streak](https://github-readme-stats.vercel.app/api?username=nivevj&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)](https://git.io/streak-stats)
-
-
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)</br><br>
