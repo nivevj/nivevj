@@ -32,6 +32,9 @@
 ### Languages worked on
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
+### Git Stats
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=blue-green)
+
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)</br><br>
@@ -40,7 +43,6 @@
 
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
-* Aceing Problem Solving 
 * MERN Stack & Django
 * AI-ML-DL
 
