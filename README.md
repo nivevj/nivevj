@@ -44,7 +44,7 @@
 ![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Languages worked on
+### Work Overview
 ![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
 
 ### Git Stats
@@ -54,24 +54,43 @@
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)</br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV&theme=dark)</br><br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Simple-portfolio-website&theme=dark)<br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker&theme=dark)
 
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
-* MERN Stack & Django
+* MERN Stack
+* Django
 * AI-ML-DL
 
-### Profile overview 
+### Profile overview
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
+![Follow](https://img.shields.io/github/followers/nivevj.svg?style=social&label=Follow&maxAge=2592000)
 
 ## And remember you're the best in your way 🌈 Cheers :)
 
 ### Get in touch
+* Social<br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nivedha_vijayakumar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nfornive)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nfornive)<br>
 
+* Coding Profile<br>
+[![Leetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nivevj/)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nivevj)
+[![Code studio](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/nivevj)
+
+* Learning Profile<br>
+[![edX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/nive_001)
+[![freecode camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nivevj)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/saravanakumar-vijayakumar-4/)
+[![GCloud profile](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/40640523-0fc0-4cad-92e2-040ade561470)
+
+* Blog<br>
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nivedha_vijayakumar)<br>
+
+* Portfolio<br>
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivevj.github.io/Simple-portfolio-website/)<br>
 
 ## Built with Love ❤ and Caffeine ☕
 
