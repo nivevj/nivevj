@@ -3,7 +3,7 @@
 
 [![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Languages I speak
+### Languages I code
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
