@@ -45,7 +45,7 @@
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Work Overview
-![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)
+![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivevj&theme=github_dark)
 
