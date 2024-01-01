@@ -19,6 +19,7 @@
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>
 
@@ -63,7 +64,7 @@
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
 * MERN Stack
-* Django
+* Blockchain
 * AI-ML-DL
 
 ### Profile overview
