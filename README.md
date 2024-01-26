@@ -70,7 +70,6 @@
 
 ### Profile overview
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
-![Follow](https://img.shields.io/github/followers/nivevj.svg?style=social&label=Follow&maxAge=2592000)
 
 ## And remember you're the best in your way 🌈 Cheers :)
 
