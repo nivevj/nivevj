@@ -63,8 +63,8 @@
 
 ### Currently working on
 ![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
+* Video Codec
 * MERN Stack
-* Blockchain
 * AI-ML-DL
 
 ### Profile overview
