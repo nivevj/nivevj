@@ -1,5 +1,5 @@
 # Hey there! I'm Nivedha Vijayakumar 👋🏻👩🏻
-## A nerd who engages in something cool 🦾
+## A Computer Science Engineer 
 
 [![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -14,10 +14,10 @@
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</br>
 
 * Framewroks </br>
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,40 +34,40 @@
 
 ### Workspace I work
 * IDE<br>
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 ![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![R studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)<br>
 
 * Terminals </br>
-![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Work Overview
-![Nivedha Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nivevj&theme=blue-green)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivevj&theme=github_dark)
+* OS </br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Coding Profile
+![LeetCode Stats](https://leetcard.jacoblin.cool/nivevj?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
 
 ### Git Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivevj&theme=github_dark)
+
+### Git Commits
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivevj&theme=github_dark)
 
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)</br><br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Face-detection-using-OpenCV&theme=dark)</br><br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Simple-portfolio-website&theme=dark)<br><br>
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker&theme=dark)
 
-### Currently working on
-![](https://github.com/nivevj/nivevj/blob/main/giphy.gif)
-* Video Codec
-* MERN Stack
-* AI-ML-DL
-
-### Profile overview
+### Profile Overview
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
 
 ## And remember you're the best in your way 🌈 Cheers :)
