@@ -52,15 +52,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### Git Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=dark)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivevj&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=github_dark)
+
+### Productive Time
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivevj&theme=github_dark)
+
 ### Coding Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nivevj?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
-
-### Git Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivevj&theme=github_dark)
-
-### Git Commits
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivevj&theme=github_dark)
 
 ### Pinned Repos
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
@@ -69,8 +70,6 @@
 
 ### Profile Overview
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
-
-## And remember you're the best in your way 🌈 Cheers :)
 
 ### Get in touch
 * Social<br>
@@ -94,5 +93,5 @@
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivevj.github.io/Simple-portfolio-website/)<br>
 
-## Built with Love ❤ and Caffeine ☕
+## Happy Learning, Cheers :) | Built with ❤ & ☕
 
