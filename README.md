@@ -64,8 +64,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nivevj?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
 
 ### Pinned Repos
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)<br><br>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)</br><br>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=N-Blog&theme=dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Retail-store-stock-inventory-analytics&theme=dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Personal-Expense-Management-and-Forecasting-Tool&theme=dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Contact-List&theme=dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker&theme=dark)
 
 ### Profile Overview
