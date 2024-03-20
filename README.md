@@ -53,11 +53,17 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Git Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=dark)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivevj&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=github_dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivevj&theme=radical">
+  <img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=nivevj&theme=dark">
+</p>
+<!--
+### Top Languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivevj&theme=tokyonight&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=tokyonight&exclude=html)
+--!>
 
-### Productive Time
+### Productivity Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivevj&theme=github_dark)
 
 ### Coding Profile
