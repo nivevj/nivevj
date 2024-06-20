@@ -4,10 +4,10 @@
 [![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages I code
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Stacks I use
 * Frontend </br>
@@ -41,7 +41,7 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
 ![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![R studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)<br>
+<!--![R studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)<br>-->
 
 * Terminals </br>
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
@@ -61,12 +61,12 @@
 ### Top Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivevj&theme=tokyonight&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=tokyonight&exclude=html)
---!>
+-->
 
 ### Productivity Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivevj&theme=github_dark)
 
-### Coding Profile
+### Coding Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nivevj?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
 
 ### Pinned Repos
@@ -80,7 +80,7 @@
 
 ### Get in touch
 * Social<br>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivedha-vijayakumar)
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nivedhavijayakumar)
 
 * Coding Profile<br>
 [![Leetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nivevj/)
@@ -89,16 +89,20 @@
 
 * Learning Profile<br>
 [![GCloud profile](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/40640523-0fc0-4cad-92e2-040ade561470)
-[![edX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/nive_001)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/nivevj/)
+<!--
+[![edX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/nive_001)
 [![freecode camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nivevj)
+-->
+
+* Portfolio<br>
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
 
 * Blog<br>
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nivedha_vijayakumar)<br>
 
-* Portfolio<br>
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivevj.github.io/Simple-portfolio-website/)<br>
+* My Art Gallery
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nivegallery)<br>
 
 ## Happy Learning, Cheers :) | Built with ❤ & ☕
 
