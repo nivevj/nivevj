@@ -101,7 +101,7 @@
 * Blog<br>
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nivedha_vijayakumar)<br>
 
-* My Art Gallery
+* My Art Gallery<br>
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nivegallery)<br>
 
 ## Happy Learning, Cheers :) | Built with ❤ & ☕
