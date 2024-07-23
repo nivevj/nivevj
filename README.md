@@ -79,7 +79,10 @@
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
 
 ### Get in touch
-* Social<br>
+* Portfolio<br>
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://react-portfolio-bkp.pages.dev/)
+
+* Social Profile<br>
 [![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nivedhavijayakumar)
 
 * Coding Profile<br>
@@ -93,7 +96,7 @@
 <!--
 [![edX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/nive_001)
 [![freecode camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nivevj)
--->
+
 
 * Portfolio<br>
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nv-website)
@@ -103,6 +106,8 @@
 
 * My Art Gallery<br>
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nivedhavijayakumar.my.canva.site/nivegallery)<br>
+
+-->
 
 ## Happy Learning, Cheers :) | Built with ❤ & ☕
 
