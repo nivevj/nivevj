@@ -1,5 +1,5 @@
 # Hey there! I'm Nivedha Vijayakumar 👋🏻👩🏻
-## A Computer Science Engineer 
+## A Computer Science Engineer & Blogger
 
 [![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
