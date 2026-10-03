@@ -1,7 +1,7 @@
 # Hey there! I'm Nivedha Vijayakumar 👋🏻👩🏻
 ## A Computer Science Engineer & Blogger
 
-[![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Nive's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivevj&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ### Languages I code
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -65,8 +65,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivevj&theme=tokyonight&exclude=html)
 -->
 
+<!--
 ### Productivity Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivevj&theme=github_dark)
+-->
 
 ### Coding Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nivevj?theme=dark&font=Noto%20Sans%20Linear%20A&ext=heatmap)
@@ -77,15 +79,19 @@
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Personal-Expense-Management-and-Forecasting-Tool&theme=dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nivevj&repo=Calorie-Tracker&theme=dark)
 
+<!--
 ### Profile Overview
 ![Profile count](https://komarev.com/ghpvc/?username=nivevj&color=ff69b4&style=for-the-badge)
+-->
 
 ### Get in touch
 * Portfolio<br>
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://react-portfolio-bkp.pages.dev/)
 
+<!--
 * Social Profile<br>
 [![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nivedhavijayakumar)
+-->
 
 * Coding Profile<br>
 [![Leetocde](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nivevj/)
